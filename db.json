@@ -1,0 +1,17 @@
+[
+    {
+    "nombre":"Nombre 1",
+    "edad":"20",
+    "Posicion":"jugador1"
+    },
+    {
+    "nombre":"Nombre 2",
+    "edad":"30",
+    "Posicion":"jugador2"
+    },
+    {
+    "nombre":"Nombre 3",
+    "edad":"25",
+    "Posicion":"jugador33"
+    }
+]
