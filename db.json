@@ -1,17 +1,23 @@
 [
     {
-    "nombre":"Nombre 1",
-    "edad":"20",
-    "Posicion":"jugador1"
+    "id":"1",
+    "nombre":"Yulius Elvergalarga",
+    "edad":"40",
+    "posicion":"jugador1",
+    "imagen":"img/jugador1"
     },
     {
-    "nombre":"Nombre 2",
+    "id":"2",
+    "nombre":"Maikel Yordan",
+    "edad":"28",
+    "posicion":"posicion 2",
+    "imagen":"img/jugador2"
+    },
+    {
+    "id":"3",
+    "nombre":"Larri Cañonga",
     "edad":"30",
-    "Posicion":"jugador2"
-    },
-    {
-    "nombre":"Nombre 3",
-    "edad":"25",
-    "Posicion":"jugador33"
+    "posicion":"jugador3",
+    "imagen":"img/jugador3"
     }
 ]
